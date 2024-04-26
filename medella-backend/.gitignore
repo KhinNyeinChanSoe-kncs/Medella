@@ -1,9 +1,6 @@
 /node_modules
 /public/hot
 /public/storage
-/public/files
-/public/images
-/public/pdfs
 /storage/*.key
 /vendor
 .env
